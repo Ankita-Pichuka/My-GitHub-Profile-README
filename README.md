@@ -30,7 +30,7 @@ When I'm not wrangling datasets, you'll find me editing videos 🎬 or experimen
 
 ---
 
-## 💼 What I've Built
+## 💼 My Experience
 
 **@ OpenIntervue** *(Data Analyst · Mar 2024 – Jan 2025)*
 - 🤖 Built AI-powered dashboards with Python, SQL & Power BI → boosted hiring accuracy by **30%**
